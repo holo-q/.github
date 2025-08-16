@@ -12,10 +12,6 @@
 - [**Thauten**](https://github.com/holo-q/thauten) - Lossless compression and xenolinguistics research
 - [**Errloom**](https://github.com/holo-q/errloom) - Context engineering framework with Holoware DSL
 
-### Optimization & Training
-- [**CBD**](https://github.com/holo-q/cbd) - Cronkle Bisection Descent optimizer for PyTorch
-- [**OpenQ**](https://github.com/holo-q/OpenQ) - Open-source Q* implementation
-- [**Petri**](https://github.com/holo-q/petri) - Training chamber GUI for mathematical organoids
 
 ### Experimental
 - [**Atmos**](https://github.com/holo-q/atmos) - Music-to-token prediction research
