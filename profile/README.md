@@ -8,12 +8,12 @@
 
 ### Research & Development
 - [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping consciousness archaeology labyrinth
-- [**SAGE**](https://github.com/holo-q/sage) - Semantic Automaton in Geometric Embeddings
-- [**Thauten**](https://github.com/holo-q/thauten) - Lossless compression and xenolinguistics research
 - [**Errloom**](https://github.com/holo-q/errloom) - Context engineering framework with Holoware DSL
+- [**Thauten**](https://github.com/holo-q/thauten) - Lossless compression and xenolinguistics research
+- [**SAGE**](https://github.com/holo-q/sage) - Semantic Automaton in Geometric Embeddings
+- [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte Model Bootstrap 
 
-
-### Experimental
+### Experiments
 - [**Atmos**](https://github.com/holo-q/atmos) - Music-to-token prediction research
 - [**Rave**](https://github.com/holo-q/rave) - Brain hacking with reinforcement learning
 
