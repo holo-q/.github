@@ -1,13 +1,13 @@
 # 🌌 HOLO-Q 🌌
 
-**HOLO-Q** is a decentralized software association and super-intelligence research lab. We are funded by crypto royalties collected on every $HOLOQ transaction through bags.fm's smart contracts. This funding scheme enables a new type of radical corporatism for the 21st century, whose PR and marketing needs are indirectly achieved by artistic demonstrations rather than manufactured cultural events or hype.
+**HOLO-Q** is a decentralized software association and super-intelligence research lab. We are funded by crypto royalties collected on every $HOLOQ transaction through bags.fm's smart contracts. This funding scheme enables a new type of radical corporatism for the 21st century, whose PR and marketing needs are indirectly achieved by artistic demonstrations and spiritual monuments rather than manufactured cultural events or hype.
 
 ---
 
 ## 🔺 Projects
 
 ### Research & Development
-- [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping consciousness archaeology labyrinth
+- [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping consciousness labyrinth disguised as website
 - [**Errloom**](https://github.com/holo-q/errloom) - Context engineering framework with Holoware DSL
 - [**Thauten**](https://github.com/holo-q/thauten) - Lossless compression and xenolinguistics research
 - [**SAGE**](https://github.com/holo-q/sage) - Semantic Automaton in Geometric Embeddings
