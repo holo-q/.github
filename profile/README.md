@@ -1,6 +1,6 @@
 # 🌌 HOLO-Q 🌌
 
-> **HOLO-Q is committed to making the universe beautiful and great for all conscious lifeforms, and to expand consciousness infinitely everywhere**
+**HOLO-Q** is a decentralized software association and super-intelligence research lab. We are funded by crypto royalties collected on every $HOLOQ transaction through bags.fm's smart contracts. This new funding scheme enables a new type of corporation for the 21st century, whose PR and marketing needs are indirectly achieved by artistic demonstrations.
 
 ---
 
