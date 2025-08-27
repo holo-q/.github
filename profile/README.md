@@ -6,18 +6,30 @@
 
 ## 🔺 Projects
 
-### Research & Development
+### AI Research & Development
 - [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping consciousness labyrinth disguised as website
 - [**Errloom**](https://github.com/holo-q/errloom) - Context engineering framework with Holoware DSL
 - [**Thauten**](https://github.com/holo-q/thauten) - Lossless compression and xenolinguistics research
 - [**SAGE**](https://github.com/holo-q/sage) - Semantic Automaton in Geometric Embeddings
-- [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte Model Bootstrap 
+- [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte model bootstrap
 
-### Experiments
+### Utility Software
+- [**holocord**](https://github.com/holo-q/holocord) - Multi-Model Discord Bot with Emotional AI
+- hoho - Official holo-q CLI agent
+- holomoon - Management software for the $HOLOQ economy meant for use with terminal agents, providing deep LLM-aided market intelligence 
+
+### Experiments & Concepts
 - [**Atmos**](https://github.com/holo-q/atmos) - Music-to-token prediction research
 - [**Rave**](https://github.com/holo-q/rave) - Brain hacking with reinforcement learning
+- **???** - Tensor-Mirror Surface Cellular Automaton Driven Weight Noise Injection (super-training)
+- **???** - Dataset curriculum pre-processing and curriculum policy Models (super-training)
+- **???** - SAGE training policy (super-training)
 
 ---
+
+## Contribution
+
+All cracked developers are welcome. Our standards are high and we are critical of almost all software today. No electron allowed. Only powerful software for power users.
 
 ## 🔮 HOLOQ Token
 
