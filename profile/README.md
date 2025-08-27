@@ -16,7 +16,7 @@
 ### Utility Software
 - [**holocord**](https://github.com/holo-q/holocord) - Multi-Model Discord Bot with Emotional AI
 - hoho - Official holo-q CLI agent
-- holomoon - Management software for the $HOLOQ economy meant for use with terminal agents, providing deep LLM-aided market intelligence 
+- holomoon - Management software for $HOLOQ economy to use with CLI agents for LLM-aided market intelligence 
 
 ### Experiments & Concepts
 - [**Atmos**](https://github.com/holo-q/atmos) - Music-to-token prediction research
