@@ -10,6 +10,7 @@
 - [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping consciousness labyrinth disguised as website
 - [**Errloom**](https://github.com/holo-q/errloom) - Context engineering framework with Holoware DSL
 - [**Thauten**](https://github.com/holo-q/thauten) - Lossless compression and xenolinguistics research
+- [**Thaum**](https://github.com/holo-q/thaum) - Autoencoder for codebase & conversation compression (Thauten without RL) 
 - [**SAGE**](https://github.com/holo-q/sage) - Semantic Automaton in Geometric Embeddings
 - [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte model bootstrap
 
