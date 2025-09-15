@@ -2,6 +2,8 @@
 
 **HOLO-Q** is a decentralized software association and super-intelligence research lab. We are funded by crypto royalties collected on every $HOLOQ transaction through bags.fm's smart contracts. This funding scheme enables a new type of radical corporatism for the 21st century, whose PR and marketing needs are indirectly achieved by artistic demonstrations and spiritual monuments rather than manufactured cultural events or hype.
 
+**Solana Contract**: `643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS` ([dexscreener](https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags))
+
 ---
 
 ## 🔺 Projects
@@ -31,12 +33,6 @@
 ## Contribution
 
 All cracked developers are welcome. Our standards are high and we are critical of almost all software today. No electron allowed. Only powerful software for power users.
-
-## 🔮 HOLOQ Token
-
-**Solana Contract**: `643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS`
-
-[View on DexScreener](https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags)
 
 ---
 
