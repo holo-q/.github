@@ -4,7 +4,7 @@ Welcome to the mission.
 
 **HOLO-Q** is an open software and intelligence research and development agency.
 
-We fund development through crypto royalties collected on every $HOLOQ `643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS` transaction through bags.fm's smart contracts. ([dexscreener](https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags))
+We fund development through crypto royalties collected on every $holoq `643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS` transaction through [bags.fm](https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS)'s smart contracts. ([dexscreener](https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags))
 
 This financialization scheme enables a new type of radicalized corporatism for the 21st century which meet market demand based on needs and values aligned with personal intelligence agency.
 
