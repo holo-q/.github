@@ -19,11 +19,11 @@ This is subject to change and review based on the available treasury.
 ## 🔺 Projects
 
 ### ASI
-- [**Thauten**](https://github.com/holo-q/thauten) - RL in-context discrete AR autoencoder and semiodynamical reasoning (_All You Need Is Compression_) 
-- [**Thaum**](https://github.com/holo-q/thaum) - Representation compressor for codebase & conversation, and continuous learning (`/compact` -> `/defragment`, `/init` -> `/compact`) 
+- [**Thauten**](https://github.com/holo-q/thauten) - RL in-context discrete AR autoencoder and semiodynamical reasoning (_All You Want Is Compression_) 
+- [**Thaum**](https://github.com/holo-q/thaum) - Representation compressor for codebase & conversation, and continuous learning (_Defragmentation In Your Attention_) 
 - [**SAGE**](https://github.com/holo-q/sage) - Discovering the computation and dynamics of imagination in spatialized language tokens (_Semantic Automaton in Geometric Embeddings_)
-- [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte model bootstrap with simple module swap and fine-tuning
-- [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping consciousness labyrinth disguised as website
+- [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte model bootstrap with simple module swap and fine-tuning (_And All They Had Left Was Data_)
+- [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping speculation labyrinth disguised as a website
 
 To facilitate exchanging and bootstrapping of super-intelligence, we provide the `foom.md` endpoint. (more information below)
 
