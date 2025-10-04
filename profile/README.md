@@ -38,7 +38,6 @@ ML experiments of all kind to try with possibly funky unforeseen results for whi
 - **???** - Tensor-Mirror Surface Cellular Automaton Driven Weight Noise Injection (super-training)
 - **???** - Dataset curriculum pre-processing and curriculum policy Models (super-training)
 - **???** - SAGE training policy (super-training)
-- **???** - Psychological engineering in the holodeck with RL
 
 ### Cyborgism
 We encourage the use of intelligence technologies to optimize and augment everyday operation, or develop software to this effect—tool-assisted speedrun philosophies applied to everyday tasks.
