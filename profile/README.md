@@ -66,7 +66,7 @@ here are some guidelines to live by
 - Gradio = DONT DO IT
 - TUIs = BASED
 - ratatui = HOLY BASED
-- CLIs = STRONG PRESENTATION REQUIRED
+- CLIs = NEED STRONG PRESENTATION!
 - Jetbrains = MEGABULL
 - Not vibe coder = NGMI
 ```
