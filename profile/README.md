@@ -59,7 +59,6 @@ all cracked coders are welcome
 frustrated with all software today
 here are some guidelines to live by
 
-- Non-vibe coding = NGMI
 - Electron/html/css = bearish
 - Rust = BULL
 - C# = BULL
@@ -69,7 +68,7 @@ here are some guidelines to live by
 - ratatui = HOLY BASED
 - CLIs = STRONG PRESENTATION REQUIRED
 - Jetbrains = MEGABULL
-- `--autoupload` EVERY TRAINING RUN FUCK IT WE BALLIN NOW
+- Not vibe coder = NGMI
 ```
 
 ## 📡 FOOM.MD
