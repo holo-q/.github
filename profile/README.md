@@ -41,7 +41,7 @@ ML experiments of all kind to try with possibly funky unforeseen results for whi
 - **???** - Psychological engineering in the holodeck with RL
 
 ### Cyborgism
-We encourage the use of intelligence technologies to optimize and augment everyday cognitive operation patterns, or develop software to this effect. Tool-assisted speedrunning philosophies applied to everyday tasks.
+We encourage the use of intelligence technologies to optimize and augment everyday operation, or develop software to this effect—tool-assisted speedrun philosophies applied to everyday tasks.
 
 - [**0fbuf**](https://github.com/holo-q/0fbuf) - Zero-frame program launch buffer and program pooling
 - [**git-mog**](https://github.com/holo-q/git-mog) - Research intelligence for high-value GitHub tasks that can be sniped by vibe coders to build a strong OSS contribution resume
