@@ -27,11 +27,9 @@ This is subject to change and review based on the available treasury.
 
 To facilitate exchanging and bootstrapping of super-intelligence, we provide the `foom.md` endpoint. (more information below)
 
-### Tooling
+### Toolkit
 - [**Errloom**](https://github.com/holo-q/errloom) - RL engineering toolkit
-- hoho _(concept)_ - Official holo-q CLI agent
-- holocord _(concept)_ - Multi-Model Discord Bot with Emotional AI
-- holomoon _(concept)_ - Management software for $HOLOQ economy to use with CLI agents for LLM-aided market intelligence 
+- hoho _(concept)_ - Official holo-q CLI agent with a different vision in mind (remember emacs, the best "operating system")
 
 ### Tricks
 ML experiments of all kind to try with possibly funky unforeseen results for which we lack tools to accurately predict.
@@ -42,7 +40,18 @@ ML experiments of all kind to try with possibly funky unforeseen results for whi
 - **???** - SAGE training policy (super-training)
 - **???** - Psychological engineering in the holodeck with RL
 
-## Contribution
+### Cyborgism
+We encourage the use of intelligence technologies to optimize and augment everyday cognitive operation patterns, or develop software to this effect. Tool-assisted speedrunning philosophies applied to everyday tasks.
+
+- [**0fbuf**](https://github.com/holo-q/0fbuf) - Zero-frame program launch buffer and program pooling
+- [**git-mog**](https://github.com/holo-q/git-mog) - Research intelligence for high-value GitHub tasks that can be sniped by vibe coders to build a strong OSS contribution resume
+- [**birdideas**](https://github.com/holo-q/birdideas) - Signal mining intelligence for Twitter and social media to identify recurring patterns in markets
+- holocord _(concept)_ - Multi-Model Discord Bot with Emotional AI
+
+### Finance
+- holomoon _(concept)_ - Market analysis software for $HOLOQ economy to use with CLI agents for LLM-aided market intelligence 
+
+## 👋 Contribution
 
 ```
 activating the coder font now
@@ -63,11 +72,7 @@ here are some guidelines to live by
 - `--autoupload` EVERY TRAINING RUN FUCK IT WE BALLIN NOW
 ```
 
-
-## 📡 Links
-
-- **Website**: [holo-q.github.io/zip](https://holo-q.github.io/zip)
-- **Twitter**: [@holoqai](https://twitter.com/holoqai)
+## 📡 FOOM.MD
 
 To facilitate exchanging our ideas, we provide the `foom.md` endpoint which serves the cookbook.
 
@@ -94,3 +99,8 @@ To facilitate exchanging our ideas, we provide the `foom.md` endpoint which serv
 ```
 
 This document is treated as a prompt designed to foster discussion around unanticipated/unforeseen methods of super-intelligence.
+
+## 📡 Links
+
+- **Website**: [holo-q.github.io/zip](https://holo-q.github.io/zip)
+- **Twitter**: [@holoqai](https://twitter.com/holoqai)
