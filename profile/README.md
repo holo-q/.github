@@ -101,4 +101,4 @@ This document is treated as a prompt designed to foster discussion around unanti
 ## 📡 Links
 
 - **Website**: [holo-q.github.io/zip](https://holo-q.github.io/zip)
-- **Twitter**: [@holoqai](https://twitter.com/holoqai)
+- **Twitter**: [@appiyoupi](https://twitter.com/appiyoupi)
