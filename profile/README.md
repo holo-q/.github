@@ -1,54 +1,114 @@
+<div align="center">
+
 # HOLO-Q
 
-Welcome to the mission.
+<sub><b>Open software & intelligence research and development agency</b></sub>
+
+<br><br>
+
+<a href="https://holo-q.github.io/zip"><img src="https://img.shields.io/badge/site-holo--q.github.io%2Fzip-151515?style=flat-square&logo=githubpages&logoColor=white" alt="site"></a>
+<a href="https://twitter.com/appiyoupi"><img src="https://img.shields.io/badge/twitter-@appiyoupi-151515?style=flat-square&logo=x&logoColor=white" alt="twitter"></a>
+<a href="https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags"><img src="https://img.shields.io/badge/$HOLOQ-DexScreener-151515?style=flat-square&logo=solana&logoColor=white" alt="dexscreener"></a>
+<a href="https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS"><img src="https://img.shields.io/badge/bags.fm-trade-151515?style=flat-square" alt="bags.fm"></a>
+
+<br><br>
+
+<b>Welcome to the mission.</b>
+
+</div>
+
+---
 
 **HOLO-Q** is an open software and intelligence research and development agency.
 
-We fund development through crypto royalties collected on every $holoq `643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS` transaction through [bags.fm](https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS)'s smart contracts. ([dexscreener](https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags))
+We fund development through crypto royalties collected on every $holoq <code>643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS</code> transaction through [bags.fm](https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS)'s smart contracts. ([dexscreener](https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags))
 
-This financialization scheme enables a new type of radicalized corporatism for the 21st century which meet market demand based on needs and values aligned with personal intelligence agency.
+This financialization scheme enables a new type of radicalized corporatism for the 21st century which meets market demand based on needs and values aligned with personal intelligence agency.
 
 PR and marketing needs are indirectly achieved by artistic demonstrations and spiritual monuments rather than manufactured cultural events or hype.
 
-Any developer out there who understand the vision and feels destined to build can buy low and pump their stock with PRs, or coordinate with higher ups to take a project under their wing.
+Any developer out there who understands the vision and feels destined to build can buy low and pump their stock with PRs, or coordinate with higher ups to take a project under their wing.
 
-Earnings on royalties are currently used as guaranteed primary income route for development funds (compute, training, inference, hardware, licenses, agents, ...) maximizing its recycling into the system.
+Earnings on royalties are currently used as guaranteed primary income route for development funds (compute, training, inference, hardware, licenses, agents, …) maximizing its recycling into the system.
 
-This is subject to change and review based on the available treasury.
+<sub><i>This is subject to change and review based on the available treasury.</i></sub>
+
+---
 
 ## 🔺 Projects
 
-### ASI
-- [**Thauten**](https://github.com/holo-q/thauten) - RL in-context discrete AR autoencoder and semiodynamical reasoning (_All You Want Is Compression_) 
-- [**Thaum**](https://github.com/holo-q/thaum) - Representation compressor for codebase & conversation, and continuous learning (_Defragmentation In Your Attention_) 
-- [**SAGE**](https://github.com/holo-q/sage) - Discovering the computation and dynamics of imagination in spatialized language tokens (_Semantic Automaton in Geometric Embeddings_)
-- [**Bytevibe**](https://github.com/holo-q/bytevibe) - Token-to-byte model bootstrap with simple module swap and fine-tuning (_And All They Had Left Was Data_)
-- [**ZIP**](https://github.com/holo-q/zip) - Self-bootstrapping speculation labyrinth disguised as a website
+### 🧠 ASI
 
-To facilitate exchanging and bootstrapping of super-intelligence, we provide the `foom.md` endpoint. (more information below)
+- [**Thauten**](https://github.com/holo-q/thauten) — RL in-context discrete AR autoencoder and semiodynamical reasoning <sub>(<i>All You Want Is Compression</i>)</sub>
+- [**Thaum**](https://github.com/holo-q/thaum) — Representation compressor for codebase & conversation, and continuous learning <sub>(<i>Defragmentation In Your Attention</i>)</sub>
+- [**SAGE**](https://github.com/holo-q/sage) — Discovering the computation and dynamics of imagination in spatialized language tokens <sub>(<i>Semantic Automaton in Geometric Embeddings</i>)</sub>
+- [**Bytevibe**](https://github.com/holo-q/bytevibe) — Token-to-byte model bootstrap with simple module swap and fine-tuning <sub>(<i>And All They Had Left Was Data</i>)</sub>
+- [**ZIP**](https://github.com/holo-q/zip) — Self-bootstrapping speculation labyrinth disguised as a website
 
-### Toolkit
-- [**Errloom**](https://github.com/holo-q/errloom) - RL engineering toolkit
-- hoho _(concept)_ - Official holo-q CLI agent with a different vision in mind (remember emacs, the best "operating system")
+> To facilitate exchanging and bootstrapping of super-intelligence, we provide the `foom.md` endpoint. (more information below)
 
-### Tricks
+### 🛠️ Toolkit
+
+- [**Errloom**](https://github.com/holo-q/errloom) — RL engineering toolkit
+- **hoho** <sub><i>(concept)</i></sub> — Official holo-q CLI agent with a different vision in mind (remember emacs, the best "operating system")
+
+### 🧪 Tricks
+
 ML experiments of all kind to try with possibly funky unforeseen results for which we lack tools to accurately predict.
 
-- [**Atmos**](https://github.com/holo-q/atmos) - Music-to-token prediction research
-- **???** - Tensor-Mirror Surface Cellular Automaton Driven Weight Noise Injection (super-training)
-- **???** - Dataset curriculum pre-processing and curriculum policy Models (super-training)
-- **???** - SAGE training policy (super-training)
+- [**Atmos**](https://github.com/holo-q/atmos) — Music-to-token prediction research
+- **???** — Tensor-Mirror Surface Cellular Automaton Driven Weight Noise Injection <sub>(super-training)</sub>
+- **???** — Dataset curriculum pre-processing and curriculum policy Models <sub>(super-training)</sub>
+- **???** — SAGE training policy <sub>(super-training)</sub>
 
-### Cyborgism
-We encourage the use of intelligence technologies to optimize and augment everyday operation, or develop software to this effect—tool-assisted speedrun philosophies applied to everyday tasks.
+### 🤖 Cyborgism
 
-- [**0fbuf**](https://github.com/holo-q/0fbuf) - Zero-frame program launch buffer and program pooling
-- [**git-mog**](https://github.com/holo-q/git-mog) - Research intelligence for high-value GitHub tasks that can be sniped by vibe coders to build a strong OSS contribution resume
-- [**birdideas**](https://github.com/holo-q/birdideas) - Signal mining intelligence for Twitter and social media to identify recurring patterns in markets
-- holocord _(concept)_ - Multi-Model Discord Bot with Emotional AI
+We encourage the use of intelligence technologies to optimize and augment everyday operation, or develop software to this effect — tool-assisted speedrun philosophies applied to everyday tasks.
 
-### Finance
-- holomoon _(concept)_ - Market analysis software for $HOLOQ economy to use with CLI agents for LLM-aided market intelligence 
+- [**0fbuf**](https://github.com/holo-q/0fbuf) — Zero-frame program launch buffer and program pooling
+- [**git-mog**](https://github.com/holo-q/git-mog) — Research intelligence for high-value GitHub tasks that can be sniped by vibe coders to build a strong OSS contribution resume
+- [**birdideas**](https://github.com/holo-q/birdideas) — Signal mining intelligence for Twitter and social media to identify recurring patterns in markets
+- **holocord** <sub><i>(concept)</i></sub> — Multi-Model Discord Bot with Emotional AI
+
+### 💰 Finance
+
+- **holomoon** <sub><i>(concept)</i></sub> — Market analysis software for $HOLOQ economy to use with CLI agents for LLM-aided market intelligence
+
+---
+
+<!-- BEGIN: HARNESS-ECOSYSTEM (auto-generated by ~/holoq/scripts/gen-claude-marketplace.nu) -->
+
+<div align="center">
+
+## 🛠️ Harness Ecosystem
+
+<sub><b>Claude Code plugins</b> &nbsp;·&nbsp; <b>Codex CLI extensions</b> &nbsp;·&nbsp; <b>MCP servers</b></sub>
+
+<p align="center">
+We invest in the agent-harness ecosystem — making terminal-based AI coding agents <em>radically</em> more capable.<br>
+Install our entire plugin marketplace with one line:
+</p>
+
+<kbd>/plugin marketplace add holo-q/.github</kbd>
+
+</div>
+
+<br>
+
+<table>
+<thead>
+<tr><th align="left">Plugin</th><th align="left">Capability</th><th align="right">&nbsp;</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top" width="220"><a href="https://github.com/holo-q/cc-csharp-plugin"><b>cc-csharp-lsp</b></a><br><sub><img src="https://img.shields.io/github/stars/holo-q/cc-csharp-plugin?style=flat-square&label=&color=151515&labelColor=151515" alt="stars"></sub></td><td valign="top">C# language server using csharp-ls - Roslyn-based LSP</td><td valign="top" align="right" width="80"><a href="https://github.com/holo-q/cc-csharp-plugin">repo&nbsp;↗</a></td></tr>
+<tr><td valign="top" width="220"><a href="https://github.com/holo-q/cc-ty-plugin"><b>cc-ty-lsp</b></a><br><sub><img src="https://img.shields.io/github/stars/holo-q/cc-ty-plugin?style=flat-square&label=&color=151515&labelColor=151515" alt="stars"></sub></td><td valign="top">Python language server using ty - an extremely fast type checker by Astral</td><td valign="top" align="right" width="80"><a href="https://github.com/holo-q/cc-ty-plugin">repo&nbsp;↗</a></td></tr>
+<tr><td valign="top" width="220"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a><br><sub><img src="https://img.shields.io/github/stars/holo-q/python-devtools-mcp?style=flat-square&label=&color=151515&labelColor=151515" alt="stars"></sub></td><td valign="top">Live runtime inspection for any Python app — MCP bridge that lets Claude Code reach into a running Python process to eval expressions, inspect objects, read source, follow logs, and capture screenshots.</td><td valign="top" align="right" width="80"><a href="https://github.com/holo-q/python-devtools-mcp">repo&nbsp;↗</a></td></tr>
+</tbody>
+</table>
+
+<!-- END: HARNESS-ECOSYSTEM -->
+
+---
 
 ## 👋 Contribution
 
@@ -59,23 +119,25 @@ frustrated with all software today
 here are some guidelines to live by
 
 - Electron/html/css = bearish
-- Rust = BULL
-- C# = BULL
-- Python = NECESSARY EVIL
-- Gradio = DONT DO IT
-- TUIs = BASED
-- ratatui = HOLY BASED
-- CLIs = NEED STRONG PRESENTATION!
-- Jetbrains = MEGABULL
+- Rust          = BULL
+- C#            = BULL
+- Python        = NECESSARY EVIL
+- Gradio        = DONT DO IT
+- TUIs          = BASED
+- ratatui       = HOLY BASED
+- CLIs          = NEED STRONG PRESENTATION!
+- Jetbrains     = MEGABULL
 - Not vibe coder = NGMI
 ```
+
+---
 
 ## 📡 FOOM.MD
 
 To facilitate exchanging our ideas, we provide the `foom.md` endpoint which serves the cookbook.
 
 ```
-~ via  v24.5.0 
+~ via  v24.5.0 
 ❮ curl foom.md
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -98,7 +160,18 @@ To facilitate exchanging our ideas, we provide the `foom.md` endpoint which serv
 
 This document is treated as a prompt designed to foster discussion around unanticipated/unforeseen methods of super-intelligence.
 
-## 📡 Links
+---
 
-- **Website**: [holo-q.github.io/zip](https://holo-q.github.io/zip)
-- **Twitter**: [@appiyoupi](https://twitter.com/appiyoupi)
+<div align="center">
+
+<sub>
+<a href="https://holo-q.github.io/zip">website</a> &nbsp;·&nbsp;
+<a href="https://twitter.com/appiyoupi">twitter</a> &nbsp;·&nbsp;
+<a href="https://github.com/holo-q">github</a>
+</sub>
+
+<br><br>
+
+<b>∞ HOLOQ ∞</b>
+
+</div>

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "holo-q",
+  "description": "holo-q's Claude Code plugins — auto-generated from .claude-plugin/plugin.json across the org",
+  "owner": {
+    "name": "holo-q",
+    "url": "https://github.com/holo-q"
+  },
+  "plugins": [
+    {
+      "name": "cc-csharp-lsp",
+      "description": "C# language server using csharp-ls - Roslyn-based LSP",
+      "source": {
+        "source": "github",
+        "repo": "holo-q/cc-csharp-plugin"
+      }
+    },
+    {
+      "name": "cc-ty-lsp",
+      "description": "Python language server using ty - an extremely fast type checker by Astral",
+      "source": {
+        "source": "github",
+        "repo": "holo-q/cc-ty-plugin"
+      }
+    },
+    {
+      "name": "python-devtools",
+      "description": "Live runtime inspection for any Python app — MCP bridge that lets Claude Code reach into a running Python process to eval expressions, inspect objects, read source, follow logs, and capture screenshots.",
+      "source": {
+        "source": "github",
+        "repo": "holo-q/python-devtools-mcp"
+      }
+    }
+  ]
+}
