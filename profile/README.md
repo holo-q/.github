@@ -97,12 +97,12 @@ Install our entire plugin marketplace with one line:
 
 <table>
 <thead>
-<tr><th align="left">Plugin</th><th align="left">Capability</th><th align="right">&nbsp;</th></tr>
+<tr><th align="left">Plugin</th><th align="left">Capability</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" width="220"><a href="https://github.com/holo-q/cc-csharp-plugin"><b>cc-csharp-lsp</b></a><br><sub><img src="https://img.shields.io/github/stars/holo-q/cc-csharp-plugin?style=flat-square&label=&color=151515&labelColor=151515" alt="stars"></sub></td><td valign="top">C# language server using csharp-ls - Roslyn-based LSP</td><td valign="top" align="right" width="80"><a href="https://github.com/holo-q/cc-csharp-plugin">repo&nbsp;↗</a></td></tr>
-<tr><td valign="top" width="220"><a href="https://github.com/holo-q/cc-ty-plugin"><b>cc-ty-lsp</b></a><br><sub><img src="https://img.shields.io/github/stars/holo-q/cc-ty-plugin?style=flat-square&label=&color=151515&labelColor=151515" alt="stars"></sub></td><td valign="top">Python language server using ty - an extremely fast type checker by Astral</td><td valign="top" align="right" width="80"><a href="https://github.com/holo-q/cc-ty-plugin">repo&nbsp;↗</a></td></tr>
-<tr><td valign="top" width="220"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a><br><sub><img src="https://img.shields.io/github/stars/holo-q/python-devtools-mcp?style=flat-square&label=&color=151515&labelColor=151515" alt="stars"></sub></td><td valign="top">Live runtime inspection for any Python app — MCP bridge that lets Claude Code reach into a running Python process to eval expressions, inspect objects, read source, follow logs, and capture screenshots.</td><td valign="top" align="right" width="80"><a href="https://github.com/holo-q/python-devtools-mcp">repo&nbsp;↗</a></td></tr>
+<tr><td valign="top" width="200"><a href="https://github.com/holo-q/cc-csharp-plugin"><b>cc-csharp-lsp</b></a></td><td valign="top">C# language server using csharp-ls - Roslyn-based LSP</td></tr>
+<tr><td valign="top" width="200"><a href="https://github.com/holo-q/cc-ty-plugin"><b>cc-ty-lsp</b></a></td><td valign="top">Python language server using ty - an extremely fast type checker by Astral</td></tr>
+<tr><td valign="top" width="200"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a></td><td valign="top">Live runtime inspection for any Python app — MCP bridge that lets Claude Code reach into a running Python process to eval expressions, inspect objects, read source, follow logs, and capture screenshots.</td></tr>
 </tbody>
 </table>
 
