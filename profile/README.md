@@ -1,17 +1,15 @@
+<div align="right">
+<a href="https://holo-q.github.io/zip"><img src="https://img.shields.io/badge/site-holo--q.github.io%2Fzip-151515?style=flat&logo=githubpages&logoColor=white" alt="site"></a>
+<a href="https://twitter.com/appiyoupi"><img src="https://img.shields.io/badge/twitter-@appiyoupi-151515?style=flat&logo=x&logoColor=white" alt="twitter"></a>
+<a href="https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags"><img src="https://img.shields.io/badge/$HOLOQ-DexScreener-151515?style=flat&logo=solana&logoColor=white" alt="dexscreener"></a>
+<a href="https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS"><img src="https://img.shields.io/badge/bags.fm-trade-151515?style=flat" alt="bags.fm"></a>
+</div>
+
 <div align="center">
 
 # HOLO-Q
 
 <sub><b>Open software & intelligence research and development agency</b></sub>
-
-<br><br>
-
-<a href="https://holo-q.github.io/zip"><img src="https://img.shields.io/badge/site-holo--q.github.io%2Fzip-151515?style=flat-square&logo=githubpages&logoColor=white" alt="site"></a>
-<a href="https://twitter.com/appiyoupi"><img src="https://img.shields.io/badge/twitter-@appiyoupi-151515?style=flat-square&logo=x&logoColor=white" alt="twitter"></a>
-<a href="https://dexscreener.com/solana/643bi6ckht4iks45pckmqhbrhqfbaga6hceonkp5bags"><img src="https://img.shields.io/badge/$HOLOQ-DexScreener-151515?style=flat-square&logo=solana&logoColor=white" alt="dexscreener"></a>
-<a href="https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS"><img src="https://img.shields.io/badge/bags.fm-trade-151515?style=flat-square" alt="bags.fm"></a>
-
-<br><br>
 
 <b>Welcome to the mission.</b>
 
