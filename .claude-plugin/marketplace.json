@@ -8,28 +8,60 @@
   },
   "plugins": [
     {
-      "name": "cc-csharp-lsp",
-      "description": "C# language server using csharp-ls - Roslyn-based LSP",
+      "name": "hsp",
+      "description": "Harness Server Protocol: one MCP plugin that selects the right LSP for the workspace",
       "source": {
-        "source": "github",
-        "repo": "holo-q/cc-csharp-plugin"
-      }
+        "source": "url",
+        "url": "https://github.com/holo-q/hsp.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "development"
     },
     {
-      "name": "cc-ty-lsp",
+      "name": "hsp-cs",
+      "description": "C# language server using csharp-ls - Roslyn-based LSP",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/holo-q/hsp-cs.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "development"
+    },
+    {
+      "name": "hsp-py",
       "description": "Python language server using ty - an extremely fast type checker by Astral",
       "source": {
-        "source": "github",
-        "repo": "holo-q/cc-ty-plugin"
-      }
+        "source": "url",
+        "url": "https://github.com/holo-q/hsp-py.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "development"
     },
     {
       "name": "python-devtools",
       "description": "Live runtime inspection for any Python app — MCP bridge that lets Claude Code reach into a running Python process to eval expressions, inspect objects, read source, follow logs, and capture screenshots.",
       "source": {
-        "source": "github",
-        "repo": "holo-q/python-devtools-mcp"
-      }
+        "source": "url",
+        "url": "https://github.com/holo-q/python-devtools-mcp.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "development"
     }
   ]
 }
