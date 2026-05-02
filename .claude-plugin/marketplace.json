@@ -55,7 +55,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/holo-q/python-devtools-mcp.git",
-        "ref": "main"
+        "ref": "master"
       },
       "policy": {
         "installation": "AVAILABLE",
