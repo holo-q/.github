@@ -77,37 +77,6 @@ Enter this into your coding harness to begin implementing superintelligence.
 
 <div align="center">
 
-### 🚀 Linux Spaceship
-
-<p align="center">The Linux computer as a conscious spaceship growing inside out across the 21st century — every panel plugin, WM hack, and Wayland binding a tendril of the larger organism waking up. Halo 3 Flood-style: the body of a hivemind, assembling itself from desktop-environment fragments.</p>
-
-</div>
-
-<br>
-
-<table>
-<thead>
-<tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
-</thead>
-<tbody>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/voohoo"><b>voohoo</b></a></td><td valign="top">Always-on voice dictation daemon with GPU-accelerated ASR</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/0fbuf"><b>0fbuf</b></a></td><td valign="top">Zero-frame application buffer - instant GUI application windows with pre-warmed pools</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-applet-lightdark-switch"><b>cosmic-applet-lightdark-switch</b></a></td><td valign="top">Cosmic Shell applet to toggle light/dark theme</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-applet-weather"><b>cosmic-applet-weather</b></a></td><td valign="top">Applet to display the weather and forecast in the Cosmic Shell panel</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-shell-crypto"><b>cosmic-shell-crypto</b></a></td><td valign="top">Applets to monitor crypto and managing wallets natively in Cosmic Shell</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>moo</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>xfce4-panel-richmon</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>xfce4-panel-richmon-babel</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>xfce4-panel-richspace</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>xfce4-panel-richspace-babel</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>xfce4-tasklist-rs</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>howm</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>howm-center</b></td><td valign="top">&nbsp;</td></tr>
-</tbody>
-</table>
-
-<div align="center">
-
 ### 🥋 Personal Kit
 
 <p align="center">Our main work platform — highly integrated suite of C# native/AOT applications sharing the same libraries. One codebase, one runtime, many surfaces.</p>
@@ -121,7 +90,40 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/transq"><b>transq</b></a></td><td valign="top">Transcript-to-quote pipeline for capturing notable lines from conversations</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>oomfi</b></td><td valign="top">ComfyUI desktop frontend</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>rk</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>vibekit</b></td><td valign="top">&nbsp;</td></tr>
+</tbody>
+</table>
+
+<div align="center">
+
+### 🚀 Linux Spaceship
+
+<p align="center">The Linux computer as a conscious spaceship growing inside out across the 21st century — every panel plugin, WM hack, and Wayland binding a tendril of the larger organism waking up. Halo 3 Flood-style: the body of a hivemind, assembling itself from desktop-environment fragments.</p>
+
+</div>
+
+<br>
+
+<table>
+<thead>
+<tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>moo</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richmon</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richmon-babel</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richspace</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richspace-babel</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/voohoo"><b>voohoo</b></a></td><td valign="top">Always-on voice dictation daemon with GPU-accelerated ASR</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>xfce4-tasklist-rs</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm-center</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/0fbuf"><b>0fbuf</b></a></td><td valign="top">Zero-frame application buffer - instant GUI application windows with pre-warmed pools</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-applet-lightdark-switch"><b>cosmic-applet-lightdark-switch</b></a></td><td valign="top">Cosmic Shell applet to toggle light/dark theme</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-applet-weather"><b>cosmic-applet-weather</b></a></td><td valign="top">Applet to display the weather and forecast in the Cosmic Shell panel</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-shell-crypto"><b>cosmic-shell-crypto</b></a></td><td valign="top">Applets to monitor crypto and managing wallets natively in Cosmic Shell</td></tr>
 </tbody>
 </table>
 
@@ -140,7 +142,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/git-mog"><b>git-mog</b></a></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/git-mog"><b>git-mog</b></a></td><td valign="top">&nbsp;</td></tr>
 </tbody>
 </table>
 
@@ -159,7 +161,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/scrollparse"><b>scrollparse</b></a></td><td valign="top">Terminal scrollback parsers for TUI applications</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/scrollparse"><b>scrollparse</b></a></td><td valign="top">Terminal scrollback parsers for TUI applications</td></tr>
 </tbody>
 </table>
 
@@ -205,7 +207,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-go"><b>ratatui-go</b></a></td><td valign="top">Go bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-py"><b>ratatui-py</b></a></td><td valign="top">Python bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-ts"><b>ratatui-ts</b></a></td><td valign="top">TypeScript/Node bindings for Ratatui (Rust TUI) via FFI</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/gradio-tui"><b>gradio-ratatui</b></a></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/gradio-tui"><b>gradio-ratatui</b></a></td><td valign="top">&nbsp;</td></tr>
 </tbody>
 </table>
 
@@ -224,8 +226,30 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/errloom"><b>Errloom</b></a></td><td valign="top">RL engineering toolkit</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/imgui_vibekit"><b>imgui_vibekit</b></a></td><td valign="top">Portable Python toolkit for building professional desktop applications with Dear ImGui</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a></td><td valign="top">&nbsp;</td></tr>
+</tbody>
+</table>
+
+<div align="center">
+
+### 🌐 Web
+
+<p align="center">Sites, web apps, the public-facing edge of the org.</p>
+
+</div>
+
+<br>
+
+<table>
+<thead>
+<tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/monoregen"><b>monoregen</b></a></td><td valign="top">Monorepo index regenerator — single TOML config drives README + plugin marketplace + diagnostic report</td></tr>
+<tr><td valign="top" align="center" width="40">⛔</td><td valign="top" width="200"><a href="https://github.com/holo-q/zip"><b>ZIP</b></a><br><sub><i>holoq.ai</i></sub></td><td valign="top">Self-bootstrapping speculation labyrinth disguised as a website</td></tr>
+<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><a href="https://github.com/holo-q/foom"><b>foom.md</b></a><br><sub><i>costs $1M to run</i></sub></td><td valign="top">Super-prompt that detonates superintelligence implementation in LLMs</td></tr>
 </tbody>
 </table>
 
@@ -244,15 +268,14 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/bytevibe"><b>Bytevibe</b></a><br><sub><i>And All They Had Left Was Data</i></sub></td><td valign="top">Token-to-byte model bootstrap with simple module swap and fine-tuning</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/rave"><b>rave</b></a></td><td valign="top">Learning to hack your brain with reinforcement learning</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/sage"><b>SAGE</b></a><br><sub><i>Semantic Automaton in Geometric Embeddings</i></sub></td><td valign="top">Discovering the computation and dynamics of imagination in spatialized language tokens</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/thaum"><b>Thaum</b></a><br><sub><i>Defragmentation In Your Attention</i></sub></td><td valign="top">Representation compressor for codebase & conversation, and continuous learning</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/thauten"><b>Thauten</b></a><br><sub><i>All You Want Is Compression</i></sub></td><td valign="top">RL in-context discrete AR autoencoder and semiodynamical reasoning</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/unifield"><b>unifield</b></a></td><td valign="top">Unifield: quantum-geometric optimization dynamics where weight manifolds evolve through coupled field equations combining relativistic quantum mechanics, Riemannian geometry, topological defect dynamics, and morphogenetic pattern formation, all resonating with divine mathematical constants (φ,e,π) through a crystalline pattern lattice.</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/zip"><b>ZIP</b></a></td><td valign="top">Self-bootstrapping speculation labyrinth disguised as a website</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/holocord"><b>holocord</b></a></td><td valign="top">HoloCord - Multi-Model Discord Bot with Emotional AI</td></tr>
+<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><a href="https://github.com/holo-q/thauten"><b>Thauten</b></a><br><sub><i>All You Want Is Compression</i></sub></td><td valign="top">RL in-context discrete AR autoencoder and semiodynamical reasoning</td></tr>
 <tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/OpenQ"><b>OpenQ</b></a></td><td valign="top">⛔ [OBSOLETE] Q* implementation - Deprecated research direction</td></tr>
+<tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/bytevibe"><b>Bytevibe</b></a><br><sub><i>And All They Had Left Was Data</i></sub></td><td valign="top">Token-to-byte model bootstrap with simple module swap and fine-tuning</td></tr>
+<tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/rave"><b>rave</b></a></td><td valign="top">Learning to hack your brain with reinforcement learning</td></tr>
+<tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/sage"><b>SAGE</b></a><br><sub><i>Semantic Automaton in Geometric Embeddings</i></sub></td><td valign="top">Discovering the computation and dynamics of imagination in spatialized language tokens</td></tr>
+<tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/thaum"><b>Thaum</b></a><br><sub><i>Defragmentation In Your Attention</i></sub></td><td valign="top">Representation compressor for codebase & conversation, and continuous learning</td></tr>
+<tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/unifield"><b>unifield</b></a></td><td valign="top">Unifield: quantum-geometric optimization dynamics where weight manifolds evolve through coupled field equations combining relativistic quantum mechanics, Riemannian geometry, topological defect dynamics, and morphogenetic pattern formation, all resonating with divine mathematical constants (φ,e,π) through a crystalline pattern lattice.</td></tr>
+<tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/holocord"><b>holocord</b></a></td><td valign="top">HoloCord - Multi-Model Discord Bot with Emotional AI</td></tr>
 </tbody>
 </table>
 
@@ -271,10 +294,8 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/errloom"><b>Errloom</b></a></td><td valign="top">RL engineering toolkit</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/AUTOENCODE"><b>AUTOENCODE</b></a></td><td valign="top">A universal /autoencode command for AI agents.</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/atmos"><b>Atmos</b></a></td><td valign="top">Music-to-token prediction research</td></tr>
-<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><a href="https://github.com/holo-q/foom"><b>foom</b></a></td><td valign="top">WARNING: cognitive hazards ahead</td></tr>
 <tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/petri"><b>petri</b></a></td><td valign="top">⛔ [OBSOLETE] Training chamber GUI - Deprecated PyTorch interface</td></tr>
 </tbody>
 </table>
