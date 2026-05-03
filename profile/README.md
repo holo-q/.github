@@ -274,7 +274,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/errloom"><b>Errloom</b></a></td><td valign="top">RL engineering toolkit</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/AUTOENCODE"><b>AUTOENCODE</b></a></td><td valign="top">A universal /autoencode command for AI agents.</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/atmos"><b>Atmos</b></a></td><td valign="top">Music-to-token prediction research</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/foom"><b>foom</b></a></td><td valign="top">WARNING: cognitive hazards ahead</td></tr>
+<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><a href="https://github.com/holo-q/foom"><b>foom</b></a></td><td valign="top">WARNING: cognitive hazards ahead</td></tr>
 <tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/petri"><b>petri</b></a></td><td valign="top">⛔ [OBSOLETE] Training chamber GUI - Deprecated PyTorch interface</td></tr>
 </tbody>
 </table>
