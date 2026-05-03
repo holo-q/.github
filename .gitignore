@@ -1,0 +1,4 @@
+# Local manifest snapshot — used by ~/holoq/scripts/gen-claude-marketplace.nu
+# `--report` to diff against the last `--write`. Per-machine cache; not
+# committed to keep history clean.
+profile/.manifest.json
