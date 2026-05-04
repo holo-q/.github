@@ -69,7 +69,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/ripmap"><b>ripmap</b></a></td><td valign="top">Ultra-fast codebase cartography for LLMs</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>babel</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>babel</b></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/hsp"><b>hsp</b></a></td><td valign="top">LSP-to-MCP bridge for Claude Code — full language server protocol exposed as MCP tools with symbol-name addressing, multi-target batching, and fallback chains</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/deepseek-responses-proxy"><b>deepseek-responses-proxy</b></a></td><td valign="top">Local Responses API shim for Codex custom providers backed by DeepSeek/OpenAI Chat Completions</td></tr>
 </tbody>
@@ -91,8 +91,8 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>oomfi</b></td><td valign="top">ComfyUI desktop frontend</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>rk</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>vibekit</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>rk</b></td><td valign="top">Dotnet workspace CLI wrapper with build acceleration for repo-kit projects</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>vibekit</b></td><td valign="top">Batteries-included ImGui.NET application framework with widgets and source generators</td></tr>
 </tbody>
 </table>
 
@@ -100,7 +100,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 
 ### 🚀 Linux Spaceship
 
-<p align="center">The Linux computer as a conscious spaceship growing inside out across the 21st century — every panel plugin, WM hack, and Wayland binding a tendril of the larger organism waking up. Halo 3 Flood-style: the body of a hivemind, assembling itself from desktop-environment fragments.</p>
+<p align="center">The Linux computer as a conscious spaceship growing inside out across the 21st century — every panel plugin, WM hack, and Wayland binding a tendril of the larger organism waking up. Halo 3 Flood-style: the body of a hivemind, assembling itself from desktop-environment fragments. XFCE is the launch substrate: stable, modular, hackable, and close enough to X11 reality that we can replace it piece by piece. The mission is to take over the XFCE foundation in practice — panel, tasklist, window manager, compositor, settings, telemetry, build/deploy pipeline — until the pieces converge into our own desktop environment. `spaceship` is the command deck; `howm`, `howm-center`, richspace, tasklist, gtk-introspection, and compoet are the hull plating.</p>
 
 </div>
 
@@ -111,19 +111,25 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>moo</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richmon</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richmon-babel</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richspace</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>xfce4-panel-richspace-babel</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>moo</b></td><td valign="top">Sub-3ms audio feedback daemon for desktop events via memory-resident WAV playback</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richmon"><b>xfce4-panel-richmon</b></a></td><td valign="top">Rich XFCE4 panel plugin replacing genmon with context menus, file-watch IPC, and live indicator streaming</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richmon-babel"><b>xfce4-panel-richmon-babel</b></a></td><td valign="top">Richmon panel indicator daemon for babel-managed terminal sessions</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richspace"><b>xfce4-panel-richspace</b></a></td><td valign="top">XFCE4 panel plugin for workspace/window visualization with configurable emoji/icon labels and live-reload config</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richspace-babel"><b>xfce4-panel-richspace-babel</b></a></td><td valign="top">Orchestration daemon bridging babel-managed sessions to richspace panel</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/vtr"><b>vtr</b></a></td><td valign="top">Multi-dimensional AI-assisted testing framework with tracing, signal rewards, and continuous feedback for agent guidance</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/voohoo"><b>voohoo</b></a></td><td valign="top">Always-on voice dictation daemon with GPU-accelerated ASR</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>xfce4-tasklist-rs</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm-center</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/scrollparse"><b>scrollparse</b></a></td><td valign="top">Terminal scrollback parsers for TUI applications</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-tasklist-rs"><b>xfce4-tasklist-rs</b></a></td><td valign="top">Rust reimplementation of XFCE4 tasklist with deterministic reducer and GTK config UI</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>gtk-introspection</b></td><td valign="top">Zero-config GTK widget tree introspection library for X11-embedded plugins</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm</b></td><td valign="top">Ground-up X11 window manager in Rust replacing xfwm4 with IPC, theming, and authoritative visibility telemetry</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm-center</b></td><td valign="top">Taskbar and panel for howm — xfce4-panel rewrite in Rust, plugin loading, and the bridge toward a first-party DE</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/0fbuf"><b>0fbuf</b></a></td><td valign="top">Zero-frame application buffer - instant GUI application windows with pre-warmed pools</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-applet-lightdark-switch"><b>cosmic-applet-lightdark-switch</b></a></td><td valign="top">Cosmic Shell applet to toggle light/dark theme</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-applet-weather"><b>cosmic-applet-weather</b></a></td><td valign="top">Applet to display the weather and forecast in the Cosmic Shell panel</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/cosmic-shell-crypto"><b>cosmic-shell-crypto</b></a></td><td valign="top">Applets to monitor crypto and managing wallets natively in Cosmic Shell</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>compoet</b></td><td valign="top">X11 compositor with semantic window effects — springs, blur, glow driven by howm atoms</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>bob</b></td><td valign="top">X11+Cairo ghost overlay substrate — click-through transparent annotations</td></tr>
+<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><b>x12</b><br><sub><i>VirtualBox MCP goes vrrr</i></sub></td><td valign="top">X11 rewrite in Rust as a stress test of coding agents.</td></tr>
 </tbody>
 </table>
 
@@ -142,26 +148,10 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/git-mog"><b>git-mog</b></a></td><td valign="top">&nbsp;</td></tr>
-</tbody>
-</table>
-
-<div align="center">
-
-### 📦 Libraries
-
-<p align="center">First-party libraries — packages we publish for others (and ourselves) to depend on.</p>
-
-</div>
-
-<br>
-
-<table>
-<thead>
-<tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
-</thead>
-<tbody>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/scrollparse"><b>scrollparse</b></a></td><td valign="top">Terminal scrollback parsers for TUI applications</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>chrot</b></td><td valign="top">Workspace-aware ASCII art timer — only counts when you're looking</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/git-mog"><b>git-mog</b></a></td><td valign="top">Find, rank, and triage long-open high-impact GitHub issues with TUI and ops workflow</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/mogitor"><b>mogitor</b></a></td><td valign="top">TUI dashboard ranking git worktrees by recency for monitoring parallel-agent activity</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/todoq"><b>todoq</b></a></td><td valign="top">Scan TODO comments and enrich with git blame — track technical debt as a timeline</td></tr>
 </tbody>
 </table>
 
@@ -207,7 +197,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-go"><b>ratatui-go</b></a></td><td valign="top">Go bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-py"><b>ratatui-py</b></a></td><td valign="top">Python bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-ts"><b>ratatui-ts</b></a></td><td valign="top">TypeScript/Node bindings for Ratatui (Rust TUI) via FFI</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/gradio-tui"><b>gradio-ratatui</b></a></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/gradio-tui"><b>gradio-ratatui</b></a></td><td valign="top">Drop-in Ratatui TUI backend for rendering Gradio apps in the terminal</td></tr>
 </tbody>
 </table>
 
@@ -226,9 +216,11 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>birdideas</b></td><td valign="top">Tweet and timeline analysis CLI with multi-LLM routing, caching, and video scene detection</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a></td><td valign="top">MCP-powered live runtime inspector for any running Python application</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/errloom"><b>Errloom</b></a></td><td valign="top">RL engineering toolkit</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>vtrace</b></td><td valign="top">Structured tracing library with hierarchical spans, plane gating, and terminal formatting</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/imgui_vibekit"><b>imgui_vibekit</b></a></td><td valign="top">Portable Python toolkit for building professional desktop applications with Dear ImGui</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a></td><td valign="top">&nbsp;</td></tr>
 </tbody>
 </table>
 
@@ -249,7 +241,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tbody>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/monoregen"><b>monoregen</b></a></td><td valign="top">Monorepo index regenerator — single TOML config drives README + plugin marketplace + diagnostic report</td></tr>
 <tr><td valign="top" align="center" width="40">⛔</td><td valign="top" width="200"><a href="https://github.com/holo-q/zip"><b>ZIP</b></a><br><sub><i>holoq.ai</i></sub></td><td valign="top">Self-bootstrapping speculation labyrinth disguised as a website</td></tr>
-<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><a href="https://github.com/holo-q/foom"><b>foom.md</b></a><br><sub><i>costs $1M to run</i></sub></td><td valign="top">Super-prompt that detonates superintelligence implementation in LLMs</td></tr>
+<tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><a href="https://github.com/holo-q/foom"><b>foom.md</b></a><br><sub><i>$1M to train</i></sub></td><td valign="top">Super-prompt that detonates superintelligence implementation in LLMs</td></tr>
 </tbody>
 </table>
 
