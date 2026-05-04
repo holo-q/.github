@@ -8,6 +8,20 @@
   },
   "plugins": [
     {
+      "name": "babel",
+      "description": "Babel telemetry hooks — wires Claude Code panes into babel's session tracker + richmon indicator (orange dot per pane state)",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/holo-q/babel.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "development"
+    },
+    {
       "name": "hsp",
       "description": "Harness Server Protocol: one MCP plugin that selects the right LSP for the workspace",
       "source": {

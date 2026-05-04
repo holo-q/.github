@@ -69,7 +69,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/ripmap"><b>ripmap</b></a></td><td valign="top">Ultra-fast codebase cartography for LLMs</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>babel</b></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/babel"><b>babel</b></a></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/hsp"><b>hsp</b></a></td><td valign="top">LSP-to-MCP bridge for Claude Code — full language server protocol exposed as MCP tools with symbol-name addressing, multi-target batching, and fallback chains</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/deepseek-responses-proxy"><b>deepseek-responses-proxy</b></a></td><td valign="top">Local Responses API shim for Codex custom providers backed by DeepSeek/OpenAI Chat Completions</td></tr>
 </tbody>
@@ -118,6 +118,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richspace-babel"><b>xfce4-panel-richspace-babel</b></a></td><td valign="top">Orchestration daemon bridging babel-managed sessions to richspace panel</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/vtr"><b>vtr</b></a></td><td valign="top">Multi-dimensional AI-assisted testing framework with tracing, signal rewards, and continuous feedback for agent guidance</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/voohoo"><b>voohoo</b></a></td><td valign="top">Always-on voice dictation daemon with GPU-accelerated ASR</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/spaceship-std"><b>spaceship-std</b></a></td><td valign="top">Spaceship utilities — wrapper around VTR with spaceship-specific paths (logging, agents, paths, rules)</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/scrollparse"><b>scrollparse</b></a></td><td valign="top">Terminal scrollback parsers for TUI applications</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-tasklist-rs"><b>xfce4-tasklist-rs</b></a></td><td valign="top">Rust reimplementation of XFCE4 tasklist with deterministic reducer and GTK config UI</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>gtk-introspection</b></td><td valign="top">Zero-config GTK widget tree introspection library for X11-embedded plugins</td></tr>
