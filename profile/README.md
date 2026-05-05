@@ -109,7 +109,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>moo</b></td><td valign="top">Sub-3ms audio feedback daemon for desktop events via memory-resident WAV playback</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/moo"><b>moo</b></a></td><td valign="top">Sub-3ms audio feedback daemon for desktop events via memory-resident WAV playback</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richmon"><b>xfce4-panel-richmon</b></a></td><td valign="top">Rich XFCE4 panel plugin replacing genmon with context menus, file-watch IPC, and live indicator streaming</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richmon-babel"><b>xfce4-panel-richmon-babel</b></a></td><td valign="top">Richmon panel indicator daemon for babel-managed terminal sessions</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/xfce4-panel-richspace"><b>xfce4-panel-richspace</b></a></td><td valign="top">XFCE4 panel plugin for workspace/window visualization with configurable emoji/icon labels and live-reload config</td></tr>
