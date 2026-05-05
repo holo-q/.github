@@ -36,34 +36,6 @@
       "category": "development"
     },
     {
-      "name": "hsp-cs",
-      "description": "C# language server using csharp-ls - Roslyn-based LSP",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/holo-q/hsp-cs.git",
-        "ref": "main"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "development"
-    },
-    {
-      "name": "hsp-py",
-      "description": "Python language server using ty - an extremely fast type checker by Astral",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/holo-q/hsp-py.git",
-        "ref": "main"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "development"
-    },
-    {
       "name": "python-devtools",
       "description": "Live runtime inspection for any Python app — MCP bridge that lets Claude Code reach into a running Python process to eval expressions, inspect objects, read source, follow logs, and capture screenshots.",
       "source": {

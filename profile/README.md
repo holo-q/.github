@@ -88,9 +88,9 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>oomfi</b></td><td valign="top">ComfyUI desktop frontend</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>rk</b></td><td valign="top">Dotnet workspace CLI wrapper with build acceleration for repo-kit projects</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>vibekit</b></td><td valign="top">Batteries-included ImGui.NET application framework with widgets and source generators</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/oomfi"><b>oomfi</b></a></td><td valign="top">ComfyUI desktop frontend</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/rk"><b>rk</b></a></td><td valign="top">Dotnet workspace CLI wrapper with build acceleration for repo-kit projects</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/vibekit"><b>vibekit</b></a></td><td valign="top">Batteries-included ImGui.NET application framework with widgets and source generators</td></tr>
 </tbody>
 </table>
 
