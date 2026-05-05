@@ -171,8 +171,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tbody>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/comfy-api-liberation"><b>comfy-api-liberation</b></a></td><td valign="top">Use your own API keys with ComfyUI. No account required.</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/comfy-loopback-buffer"><b>comfy-loopback-buffer</b></a></td><td valign="top">Buffer node for ComfyUI workflows that loops outputs back into inputs</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/comfy-uiapi"><b>comfy-uiapi</b></a></td><td valign="top">Python client for ComfyUI-uiapi - programmatic workflow control</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/comfy-ctrl"><b>comfy-ctrl</b></a></td><td valign="top">Remote control bridge for ComfyUI — server extension, Python client, and MCP server</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/comfy-ctrl"><b>comfy-ctrl</b></a></td><td valign="top">Remote control bridge for ComfyUI — server extension, Python client, and MCP server</td></tr>
 </tbody>
 </table>
 
