@@ -129,6 +129,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>compoet</b></td><td valign="top">X11 compositor with semantic window effects — springs, blur, glow driven by howm atoms</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>bob</b></td><td valign="top">X11+Cairo ghost overlay substrate — click-through transparent annotations</td></tr>
 <tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><b>x12</b><br><sub><i>VirtualBox MCP goes vrrr</i></sub></td><td valign="top">X11 rewrite in Rust as a stress test of coding agents.</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/spacejn"><b>spacejn</b></a></td><td valign="top">Pure Rust journald reader with trace geometry navigation and grammar-based log folding</td></tr>
 </tbody>
 </table>
 
