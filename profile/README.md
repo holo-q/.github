@@ -148,9 +148,9 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>chrot</b></td><td valign="top">Workspace-aware ASCII art timer — only counts when you're looking</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/mogitor"><b>mogitor</b></a></td><td valign="top">TUI dashboard ranking git worktrees by recency for monitoring parallel-agent activity</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/todoq"><b>todoq</b></a></td><td valign="top">Scan TODO comments and enrich with git blame — track technical debt as a timeline</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/git-mog"><b>git-mog</b></a></td><td valign="top">Find, rank, and triage long-open high-impact GitHub issues with TUI and ops workflow</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/mogitor"><b>mogitor</b></a></td><td valign="top">TUI dashboard ranking git worktrees by recency for monitoring parallel-agent activity</td></tr>
-<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/todoq"><b>todoq</b></a></td><td valign="top">Scan TODO comments and enrich with git blame — track technical debt as a timeline</td></tr>
 </tbody>
 </table>
 
