@@ -67,8 +67,10 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/ripmap"><b>ripmap</b></a></td><td valign="top">Ultra-fast codebase cartography for LLMs</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>babel</b></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/babel"><b>babel</b></a></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/hsp"><b>hsp</b></a></td><td valign="top">LSP-to-MCP bridge for Claude Code — full language server protocol exposed as MCP tools with symbol-name addressing, multi-target batching, and fallback chains</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/orgmap"><b>orgmap</b></a></td><td valign="top">Organization/workgroup marker protocol + anti-sloppy screen + universal git hooks for multi-repo agent work</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/deepseek-responses-proxy"><b>deepseek-responses-proxy</b></a></td><td valign="top">Local Responses API shim for Codex custom providers backed by DeepSeek/OpenAI Chat Completions</td></tr>
 </tbody>
 </table>
@@ -91,6 +93,26 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/oomfi"><b>oomfi</b></a></td><td valign="top">ComfyUI desktop frontend</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/rk"><b>rk</b></a></td><td valign="top">Dotnet workspace CLI wrapper with build acceleration for repo-kit projects</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/vibekit"><b>vibekit</b></a></td><td valign="top">Batteries-included ImGui.NET application framework with widgets and source generators</td></tr>
+</tbody>
+</table>
+
+<div align="center">
+
+### 📦 Libraries
+
+<p align="center">First-party libraries — packages we publish for others (and ourselves) to depend on.</p>
+
+</div>
+
+<br>
+
+<table>
+<thead>
+<tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>Summum</b></td><td valign="top">&nbsp;</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ronmamon"><b>ronmamon</b></a></td><td valign="top">Zero-allocation UTF-8 RON (Rusty Object Notation) parser + source-generated binder for .NET / NativeAOT — the nesting-native sibling of Tomatonl</td></tr>
 </tbody>
 </table>
 
@@ -128,8 +150,10 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>gtk-introspection</b></td><td valign="top">Zero-config GTK widget tree introspection library for X11-embedded plugins</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>howm</b></td><td valign="top">Ground-up X11 window manager in Rust replacing xfwm4 with IPC, theming, and authoritative visibility telemetry</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>compoet</b></td><td valign="top">X11 compositor with semantic window effects — springs, blur, glow driven by howm atoms</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>bob</b></td><td valign="top">X11+Cairo ghost overlay substrate — click-through transparent annotations</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>bob</b></td><td valign="top">X11+Cairo desktop journal host — pages, modules, actions, and hover foreground</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>wstrail</b></td><td valign="top">&nbsp;</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/babel-zellij"><b>babel-zellij</b></a></td><td valign="top">Zellij plugin for babel — live agent session status in your terminal multiplexer</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>rheo</b></td><td valign="top">&nbsp;</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/rheo"><b>rheo</b></a></td><td valign="top">Generic job-router daemon for cargo admission, quotas, progress, and work topology</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/rheo-protocol"><b>rheo-protocol</b></a></td><td valign="top">Wire protocol types for rheo, the holoq job-router daemon</td></tr>
 <tr><td valign="top" align="center" width="40">☠️</td><td valign="top" width="200"><b>x12</b><br><sub><i>VirtualBox MCP goes vrrr</i></sub></td><td valign="top">X11 rewrite in Rust as a stress test of coding agents.</td></tr>
@@ -156,6 +180,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/mogitor"><b>mogitor</b></a></td><td valign="top">TUI dashboard ranking git worktrees by recency for monitoring parallel-agent activity</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/todoq"><b>todoq</b></a></td><td valign="top">Scan TODO comments and enrich with git blame — track technical debt as a timeline</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/git-mog"><b>git-mog</b></a></td><td valign="top">Find, rank, and triage long-open high-impact GitHub issues with TUI and ops workflow</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/rustbind"><b>rustbind</b></a></td><td valign="top">Rust FFI → language bindings generator: parse any Rust crate's C-ABI surface into a typed IR (bindings.json), then emit idiomatic bindings (C# first; Py/TS in their own repos).</td></tr>
 </tbody>
 </table>
 
@@ -203,7 +228,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-go"><b>ratatui-go</b></a></td><td valign="top">Go bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-py"><b>ratatui-py</b></a></td><td valign="top">Python bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-ts"><b>ratatui-ts</b></a></td><td valign="top">TypeScript/Node bindings for Ratatui (Rust TUI) via FFI</td></tr>
-<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/gradio-tui"><b>gradio-ratatui</b></a></td><td valign="top">Drop-in Ratatui TUI backend for rendering Gradio apps in the terminal</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/rgcore"><b>rgcore</b></a></td><td valign="top">ripgrep's search engine over a C ABI — gitignore-aware parallel walk + regex/PCRE2, callback-per-match; reusable from C#, etc. via rustbind</td></tr>
 </tbody>
 </table>
 
@@ -295,6 +320,26 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/AUTOENCODE"><b>AUTOENCODE</b></a></td><td valign="top">A universal /autoencode command for AI agents.</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><a href="https://github.com/holo-q/atmos"><b>Atmos</b></a></td><td valign="top">Music-to-token prediction research</td></tr>
 <tr><td valign="top" align="center" width="40">🗄️</td><td valign="top" width="200"><a href="https://github.com/holo-q/petri"><b>petri</b></a></td><td valign="top">⛔ [OBSOLETE] Training chamber GUI - Deprecated PyTorch interface</td></tr>
+</tbody>
+</table>
+
+<div align="center">
+
+### ⚗️ Foom
+
+<p align="center">The training pillar — the org's RL engine reincarnated in C#/NativeAOT. Errloom weaves and precipitates Holoware (`.hol`), the context-engineering language where symbolic scaffold and neural rollout share one grammar; the irreducible torch is fenced behind a CSnakes membrane, generation rides HTTP to vLLM, and a Training route renders the computation graph live on the monitor. One `.hol` AST, two backends: weave it in-context for behavior, precipitate it into weights for capability. The gene bank, not the god model.</p>
+
+</div>
+
+<br>
+
+<table>
+<thead>
+<tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>Holoware</b><br><sub><i>The loom speaks</i></sub></td><td valign="top">The .hol context-engineering language — symbolic scaffold and neural rollout woven in one grammar</td></tr>
+<tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>Errloom</b><br><sub><i>Err to wander, loom to weave</i></sub></td><td valign="top">C#/NativeAOT RL engine — weaves and precipitates Holoware; the gene bank, not the god model</td></tr>
 </tbody>
 </table>
 
