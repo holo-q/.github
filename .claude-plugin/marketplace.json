@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "babel",
-      "description": "Babel telemetry hooks — wires Claude Code panes into babel's session tracker + richmon indicator (orange dot per pane state)",
+      "description": "babel: the agent-session bus + coordination MCP — a named, state-bearing crew (ground-truth liveness, no heartbeats), tickets, build gates, and active-delivery ask/chat (injected into recipient panes), plus session history/resume/fork across kitty.",
       "source": {
         "source": "url",
         "url": "https://github.com/holo-q/babel.git",

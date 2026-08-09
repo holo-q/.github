@@ -67,8 +67,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/ripmap"><b>ripmap</b></a></td><td valign="top">Ultra-fast codebase cartography for LLMs</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>babel</b></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/babel"><b>babel</b></a></td><td valign="top">Terminal session orchestrator for AI coding agents across kitty panes</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/babel"><b>babel</b></a></td><td valign="top">Agent-session bus + coordination MCP — named crew (ground-truth liveness), tickets, build gates, active-delivery ask/chat, over kitty session history/resume/fork</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/hsp"><b>hsp</b></a></td><td valign="top">LSP-to-MCP bridge for Claude Code — full language server protocol exposed as MCP tools with symbol-name addressing, multi-target batching, and fallback chains</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/orgmap"><b>orgmap</b></a></td><td valign="top">Organization/workgroup marker protocol + anti-sloppy screen + universal git hooks for multi-repo agent work</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/deepseek-responses-proxy"><b>deepseek-responses-proxy</b></a></td><td valign="top">Local Responses API shim for Codex custom providers backed by DeepSeek/OpenAI Chat Completions</td></tr>
@@ -91,8 +90,13 @@ Enter this into your coding harness to begin implementing superintelligence.
 </thead>
 <tbody>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/oomfi"><b>oomfi</b></a></td><td valign="top">ComfyUI desktop frontend</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>rk</b></td><td valign="top">Dotnet workspace CLI wrapper with build acceleration for repo-kit projects</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/rk"><b>rk</b></a></td><td valign="top">Dotnet workspace CLI wrapper with build acceleration for repo-kit projects</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/vibekit"><b>vibekit</b></a></td><td valign="top">Batteries-included ImGui.NET application framework with widgets and source generators</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>bob-demo</b></td><td valign="top">Testbed app for the Bob UI stack — imgui_demo.cpp equivalent: one page per widget/SDF/font/fx family, plus a Sandbox page for new UI</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Poet.cs</b></td><td valign="top">Structured C# code generation on Roslyn — FileSpec/TypeSpec/MethodSpec builders instead of string concat; every org generator rides it</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>rkd</b></td><td valign="top">The org's warm-Roslyn build server behind rk — resident workspaces, dll/pdb/deps.json emitted from the Roslyn API, MSBuild never spawned</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>sorsrs</b></td><td valign="top">Semantic refactoring workbench — the symbol graph as a control surface: stage a move, preview fallout, apply, verify, bank the hypothesis</td></tr>
 </tbody>
 </table>
 
@@ -111,8 +115,27 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>Summum</b></td><td valign="top">&nbsp;</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ronmamon"><b>ronmamon</b></a></td><td valign="top">Zero-allocation UTF-8 RON (Rusty Object Notation) parser + source-generated binder for .NET / NativeAOT — the nesting-native sibling of Tomatonl</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>Summum</b></td><td valign="top">Source-generated discriminated unions — [Union]/[Case] to a zero-alloc tagged record struct with a switchable Kind, plus a symmetric JSON converter</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ronmamon"><b>ronmamon</b></a></td><td valign="top">Zero-alloc AOT UTF-8 RON parser + source-generated binder — the org-default machine serialization; recursive value-descent, serde-default parity</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Ansitek</b></td><td valign="top">Zero-alloc ANSI/SGR terminal-output substrate — styling, color math, UAX-11 width, constraint table layout; the Spectre.Console replacement</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Bench</b></td><td valign="top">Benchmark and perf-hunt kernel — order statistics, per-host baseline gates, unaccounted-time and redundancy-counter asserts, perf-stat + JIT-asm microscopes</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>boboo</b></td><td valign="top">bob's GUI/render framework extracted into an org substrate — mid-extraction: Ink color leaf, value/geometry/motion atoms and [Palette]/[Scalar] codegen have landed, the render engine has not</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Datasets.cs</b></td><td valign="top">Streaming dataset intake — pages the Hugging Face Dataset Viewer /rows API into text samples without materializing the split on disk</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>dokk</b></td><td valign="top">Org daemon kit — socket-path ladder, safe flock bind, line framing, accept/drain lifecycle, retrying client; a daemon starts at its handler</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Guitek</b></td><td valign="top">[GenerateGUI] attribute codegen for backend-agnostic immediate-mode inspectors — plus the shared color/theme/action/keybind/input atoms it draws</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>idgen</b></td><td valign="top">[TransparentId] source generator — one attribute mints an id newtype with a bare JSON wire, zero-alloc TryFormat, and a per-assembly converter registrar</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>litmus</b></td><td valign="top">The org test-host battery — [Battery]/[Test] attributes into a compile-time registry, ✓/✗ counters, per-test time budgets, exit code = failures</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Mathtek</b></td><td valign="top">Geometry, layout and animation value primitives — Vec2/3/4, Mat4, Rect slicing, easing + damping; System.Numerics layout for no-copy reinterpret</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Qask</b></td><td valign="top">UniTask-shaped zero-alloc async primitive replacing Task — pooled Qask<T>, state-affine Loop pump, Airlock membrane, QASK001 analyzer</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Spantek</b></td><td valign="top">Selector grammar for ordered event tapes — parses 50 / 30m / 5..15 / 14:30..15:00 and streams matches to a caller callback, alloc-free</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>sqli</b></td><td valign="top">sqlc-for-C# — SQLite schemas as plain structs; generated DDL, typed CRUD and [Query] bodies over cached prepared statements, no ADO.NET</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Stagetek</b></td><td valign="top">Typed filesystem-effect staging — declare an ordered StagePlan (owned-tree sync, shared symlinks, chmod), render it for --dry, apply it sealed</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Syntax</b></td><td valign="top">Tree-sitter for C# — bash/JS source into highlight spans plus structured reads: ripgrep operand classification, JS tool-call extraction</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Tomatonl</b></td><td valign="top">Zero-alloc UTF-8 TOML + Poet-generated reflection-free binder — binds fields AND properties, no 64-member cliff, comment-lossless round-trip</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>Trex</b></td><td valign="top">TRigram + rEgeX search index — a regex compiles to trigram postings so the real scan runs on candidate documents, not the corpus; incremental + persistable</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>verbgen</b></td><td valign="top">Cross-surface IDL — one [Verb]/[Param] request type generates the CLI subcommand + --help, the MCP tool schema, the JSON reader, and registry dispatch</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>VTR.cs</b></td><td valign="top">Structured semantic tracing — spans/boundaries/decisions instead of log levels, plus time and alloc contracts and the VTR001 analyzer; AOT-clean</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><b>VTR.Weaver</b></td><td valign="top">Fody/Cecil IL weaver for VTR markers — rewrites method bodies post-compile where a source generator cannot, strips markers, refuses un-weavable shapes</td></tr>
 </tbody>
 </table>
 
@@ -228,7 +251,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-go"><b>ratatui-go</b></a></td><td valign="top">Go bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-py"><b>ratatui-py</b></a></td><td valign="top">Python bindings for Ratatui (Rust TUI) via FFI</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ratatui-ts"><b>ratatui-ts</b></a></td><td valign="top">TypeScript/Node bindings for Ratatui (Rust TUI) via FFI</td></tr>
-<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/rgcore"><b>rgcore</b></a></td><td valign="top">ripgrep's search engine over a C ABI — gitignore-aware parallel walk + regex/PCRE2, callback-per-match; reusable from C#, etc. via rustbind</td></tr>
+<tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/ripgrep.cs"><b>ripgrep.cs</b></a></td><td valign="top">ripgrep's search engine over a C ABI — gitignore-aware parallel walk + regex/PCRE2, callback-per-match; reusable from C#, etc. via rustbind</td></tr>
 </tbody>
 </table>
 
@@ -247,7 +270,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tr><th align="center" width="40">·</th><th align="left">Project</th><th align="left">Description</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>birdideas</b></td><td valign="top">Tweet and timeline analysis CLI with multi-LLM routing, caching, and video scene detection</td></tr>
+<tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><b>birdideas</b></td><td valign="top">Intelligence engine — C#/NativeAOT port of repo-py/birdideas: twitter/youtube gather, LLM classify/compact, RQL correlation queries</td></tr>
 <tr><td valign="top" align="center" width="40">🔺</td><td valign="top" width="200"><a href="https://github.com/holo-q/python-devtools-mcp"><b>python-devtools</b></a></td><td valign="top">MCP-powered live runtime inspector for any running Python application</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><a href="https://github.com/holo-q/errloom"><b>Errloom</b></a></td><td valign="top">RL engineering toolkit</td></tr>
 <tr><td valign="top" align="center" width="40">🌱</td><td valign="top" width="200"><b>vtrace</b></td><td valign="top">Structured tracing library with hierarchical spans, plane gating, and terminal formatting</td></tr>
@@ -340,6 +363,7 @@ Enter this into your coding harness to begin implementing superintelligence.
 <tbody>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>Holoware</b><br><sub><i>The loom speaks</i></sub></td><td valign="top">The .hol context-engineering language — symbolic scaffold and neural rollout woven in one grammar</td></tr>
 <tr><td valign="top" align="center" width="40">🚧</td><td valign="top" width="200"><b>Errloom</b><br><sub><i>Err to wander, loom to weave</i></sub></td><td valign="top">C#/NativeAOT RL engine — weaves and precipitates Holoware; the gene bank, not the god model</td></tr>
+<tr><td valign="top" align="center" width="40"></td><td valign="top" width="200"><a href="https://github.com/holo-q/cogito"><b>cogito</b></a></td><td valign="top">A homoiconic learning machine for AGI and executable mathematical discovery.</td></tr>
 </tbody>
 </table>
 
